@@ -1,12 +1,4 @@
 
-#click button script
-def buttonFunc():
-    print "button clicked!"
-
-b = qt.QPushButton("Click Me")
-b.connect("clicked()", buttonFunc)
-b.show()
-
 
 # Creating and translating a node -- 2017-01-24
 
